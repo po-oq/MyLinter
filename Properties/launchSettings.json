@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyLinter": {
+      "commandName": "Project",
+      "commandLineArgs": "--gitpath=C:\\zDev\\repo\\csharp\\Feedonburi"
+    }
+  }
+}
